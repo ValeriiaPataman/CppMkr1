@@ -1,6 +1,5 @@
 ﻿using System;
-
-namespace CppMkr1;
+using CppMkr1;
 
 public static class Program
 {
