@@ -20,4 +20,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CppMkr1\CppMkr1.csproj" />
+  </ItemGroup>
+
 </Project>
